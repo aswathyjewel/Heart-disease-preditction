@@ -5,9 +5,7 @@
 
 
 #---------------------------------------------------------------
-# @author Prasanth Moothedath Padmakumar C0796752
-# @author Aswathy Kuttisseril Jewel C0813455
-# @author Gayathri Ravi Nath C0818959
+# @author Aswathy Jewel
 
 # Dataset File downloaded from https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci
 
